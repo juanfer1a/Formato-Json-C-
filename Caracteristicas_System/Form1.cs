@@ -51,10 +51,9 @@ namespace Caracteristicas_System
 
 
         //Creacion del documento. Json
-        string path = @"producto.json";
-        
-        
-       // private static string documento = @"C:\Json\Productos.json"
+
+
+        private static string documento = Application.StartupPath + @"\Productos.json";
         
       
 
