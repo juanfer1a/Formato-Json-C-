@@ -16,73 +16,48 @@ namespace Caracteristicas_System
 {
     public partial class Form1 : Form
     {
-        //clsButtons btns = new clsButtons();
-        //clsConexion cn = new clsConexion();
+        private static string documento = Application.StartupPath + @"\Productos2.json";
 
-        // Creamos la lista de botones.
-        //List<Button> botones = new List<Button>();
-
-      
 
         public Form1()
         {
             InitializeComponent();
             panel1.Visible = true;
-            
-            //panel1.Visible = true;
-            //try
-            //{  
-            //    //string traerboton = "SELECT * FROM tblListaBotones ";
-            //    //Controls.Add(cn.ConectarBoton(traerboton));
 
-            //    //while (botones!=null)
-            //    //{
-            //    //    listBox1.Items.Add(botones);
-            //    //}
-               
-            //}
-            //catch (Exception ex)
-            //{
-            //    MessageBox.Show("NO TRAJO BOTON");
-            //    throw;
-            //}
-            
         }
 
 
-        //Creacion del documento. Json
+        //Creacion del documento. Json    
 
-
-        private static string documento = Application.StartupPath + @"\Productos.json";
-        
-      
 
         private void Btn_Especificaciones_Click(object sender, EventArgs e)
         {
-            var productos = GetClsinventarios();
+            var productos = GetProductos();
             SerializarJsonDocumento(productos);
         }
 
-        public static void SerializarJsonDocumento(List<Json.clsProducto> productos) 
+        public static void SerializarJsonDocumento(List<Json.clsProducto> productos)
         {
-            string productosCreados = JsonConvert.SerializeObject(productos.ToArray(),Formatting.Indented);
+            string productosCreados = JsonConvert.SerializeObject(productos.ToArray(), Formatting.Indented);
 
             File.WriteAllText(documento, productosCreados);
-        
+
         }
 
         //Creación del Json(mirar la carpeta en el explorador de soluciones)
-        public static List<Json.clsProducto> GetClsinventarios() 
+        public static List<Json.clsProducto> GetProductos()
         {
 
-            List<Json.clsProducto> producto = new List<Json.clsProducto> {
+            List<Json.clsProducto> productos = new List<Json.clsProducto>
+            {
                 new Json.clsProducto
                 {
-                    nombre = "Andres",
-                    precio = 456,
-                    ingredientes = new List<Json.Ingredientes> {
-                         new Json.Ingredientes { ingrediente = "Pan",ingrediente1 ="Lettuce" },
-                         new Json.Ingredientes {ingrediente = "", ingrediente1 ="" }
+                    Nombre = "Andres",
+                    Precio = 456,
+                    Ingredientes = new List<Json.Ingredientes>
+                    {
+                         new Json.Ingredientes {Nombre="pan bimbo",Unidad = "Unidad",Cantidad = 1 },
+                         new Json.Ingredientes { Nombre = "Carne", Unidad = "Unidad", Cantidad = 1 }
 
                     }
 
@@ -90,22 +65,22 @@ namespace Caracteristicas_System
 
             };
 
-            return producto;
+            return productos;
         }
-    
+
 
         private void button1_Click(object sender, EventArgs e)
         {
-            
-            
+
+
         }
 
 
-        
+
         private void button2_Click(object sender, EventArgs e)
         {
             listBox1.Items.Add("Uno");
-            
+
             //listBox1.Items.Add("Dos");
             //listBox1.Items.Add("three");
             //listBox1.Items.Add("four");
@@ -162,9 +137,9 @@ namespace Caracteristicas_System
 
 
         }
-        public void contarItems() 
-        { 
-        
+        public void contarItems()
+        {
+
         }
     }
 }

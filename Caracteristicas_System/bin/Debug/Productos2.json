@@ -1,0 +1,18 @@
+[
+  {
+    "Nombre": "Andres",
+    "Precio": 456,
+    "Ingredientes": [
+      {
+        "Nombre": "pan bimbo",
+        "Unidad": "Unidad",
+        "Cantidad": 1.0
+      },
+      {
+        "Nombre": "Carne",
+        "Unidad": "Unidad",
+        "Cantidad": 1.0
+      }
+    ]
+  }
+]

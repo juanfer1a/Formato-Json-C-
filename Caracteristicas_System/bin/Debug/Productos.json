@@ -1,23 +1,16 @@
 [
   {
-    "nombre": "Andres",
-    "precio": 456,
-    "ingredientes": [
+    "Nombre": "Andres",
+    "Precio": 456,
+    "Ingredientes": [
       {
         "ingrediente": "Pan",
         "ingrediente1": "Lettuce",
         "ingrediente2": null,
         "ingrediente3": null,
         "ingrediente4": null,
-        "ingrediente5": null
-      },
-      {
-        "ingrediente": "",
-        "ingrediente1": "",
-        "ingrediente2": null,
-        "ingrediente3": null,
-        "ingrediente4": null,
-        "ingrediente5": null
+        "ingrediente5": null,
+        "ingrediente6": null
       }
     ]
   }
