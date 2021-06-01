@@ -1,0 +1,46 @@
+C:\Users\User\source\repos\Caracteristicas_System\Caracteristicas_System\bin\Debug\Caracteristicas_System.exe.config
+C:\Users\User\source\repos\Caracteristicas_System\Caracteristicas_System\bin\Debug\Caracteristicas_System.exe
+C:\Users\User\source\repos\Caracteristicas_System\Caracteristicas_System\bin\Debug\Caracteristicas_System.pdb
+C:\Users\User\source\repos\Caracteristicas_System\Caracteristicas_System\obj\Debug\Caracteristicas_System.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Caracteristicas_System\Caracteristicas_System\obj\Debug\Caracteristicas_System.Form1.resources
+C:\Users\User\source\repos\Caracteristicas_System\Caracteristicas_System\obj\Debug\Caracteristicas_System.Properties.Resources.resources
+C:\Users\User\source\repos\Caracteristicas_System\Caracteristicas_System\obj\Debug\Caracteristicas_System.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Caracteristicas_System\Caracteristicas_System\obj\Debug\Caracteristicas_System.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Caracteristicas_System\Caracteristicas_System\obj\Debug\Caracteristicas_System.exe
+C:\Users\User\source\repos\Caracteristicas_System\Caracteristicas_System\obj\Debug\Caracteristicas_System.pdb
+D:\Caracteristicas_System\Caracteristicas_System\bin\Debug\Caracteristicas_System.exe.config
+D:\Caracteristicas_System\Caracteristicas_System\bin\Debug\Caracteristicas_System.exe
+D:\Caracteristicas_System\Caracteristicas_System\bin\Debug\Caracteristicas_System.pdb
+D:\Caracteristicas_System\Caracteristicas_System\obj\Debug\Caracteristicas_System.csprojAssemblyReference.cache
+D:\Caracteristicas_System\Caracteristicas_System\obj\Debug\Caracteristicas_System.Form1.resources
+D:\Caracteristicas_System\Caracteristicas_System\obj\Debug\Caracteristicas_System.Properties.Resources.resources
+D:\Caracteristicas_System\Caracteristicas_System\obj\Debug\Caracteristicas_System.csproj.GenerateResource.cache
+D:\Caracteristicas_System\Caracteristicas_System\obj\Debug\Caracteristicas_System.csproj.CoreCompileInputs.cache
+D:\Caracteristicas_System\Caracteristicas_System\obj\Debug\Caracteristicas_System.exe
+D:\Caracteristicas_System\Caracteristicas_System\obj\Debug\Caracteristicas_System.pdb
+C:\Users\User\OneDrive\Escritorio\Caracteristicas_System\Caracteristicas_System\bin\Debug\Caracteristicas_System.exe.config
+C:\Users\User\OneDrive\Escritorio\Caracteristicas_System\Caracteristicas_System\bin\Debug\Caracteristicas_System.exe
+C:\Users\User\OneDrive\Escritorio\Caracteristicas_System\Caracteristicas_System\bin\Debug\Caracteristicas_System.pdb
+C:\Users\User\OneDrive\Escritorio\Caracteristicas_System\Caracteristicas_System\obj\Debug\Caracteristicas_System.csprojAssemblyReference.cache
+C:\Users\User\OneDrive\Escritorio\Caracteristicas_System\Caracteristicas_System\obj\Debug\Caracteristicas_System.Form1.resources
+C:\Users\User\OneDrive\Escritorio\Caracteristicas_System\Caracteristicas_System\obj\Debug\Caracteristicas_System.Properties.Resources.resources
+C:\Users\User\OneDrive\Escritorio\Caracteristicas_System\Caracteristicas_System\obj\Debug\Caracteristicas_System.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Escritorio\Caracteristicas_System\Caracteristicas_System\obj\Debug\Caracteristicas_System.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Escritorio\Caracteristicas_System\Caracteristicas_System\obj\Debug\Caracteristicas_System.exe
+C:\Users\User\OneDrive\Escritorio\Caracteristicas_System\Caracteristicas_System\obj\Debug\Caracteristicas_System.pdb
+C:\Users\User\OneDrive\Escritorio\Caracteristicas_System\Caracteristicas_System\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\OneDrive\Escritorio\Caracteristicas_System\Caracteristicas_System\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\OneDrive\Escritorio\Caracteristicas_System\Caracteristicas_System\obj\Debug\Caracteristicas_System.csproj.CopyComplete
+G:\Mi unidad\2021-1\proyecto final\Caracteristicas_System\Caracteristicas_System\bin\Debug\Caracteristicas_System.exe.config
+G:\Mi unidad\2021-1\proyecto final\Caracteristicas_System\Caracteristicas_System\bin\Debug\Caracteristicas_System.exe
+G:\Mi unidad\2021-1\proyecto final\Caracteristicas_System\Caracteristicas_System\bin\Debug\Caracteristicas_System.pdb
+G:\Mi unidad\2021-1\proyecto final\Caracteristicas_System\Caracteristicas_System\bin\Debug\Newtonsoft.Json.dll
+G:\Mi unidad\2021-1\proyecto final\Caracteristicas_System\Caracteristicas_System\bin\Debug\Newtonsoft.Json.xml
+G:\Mi unidad\2021-1\proyecto final\Caracteristicas_System\Caracteristicas_System\obj\Debug\Caracteristicas_System.csprojAssemblyReference.cache
+G:\Mi unidad\2021-1\proyecto final\Caracteristicas_System\Caracteristicas_System\obj\Debug\Caracteristicas_System.Form1.resources
+G:\Mi unidad\2021-1\proyecto final\Caracteristicas_System\Caracteristicas_System\obj\Debug\Caracteristicas_System.Properties.Resources.resources
+G:\Mi unidad\2021-1\proyecto final\Caracteristicas_System\Caracteristicas_System\obj\Debug\Caracteristicas_System.csproj.GenerateResource.cache
+G:\Mi unidad\2021-1\proyecto final\Caracteristicas_System\Caracteristicas_System\obj\Debug\Caracteristicas_System.csproj.CoreCompileInputs.cache
+G:\Mi unidad\2021-1\proyecto final\Caracteristicas_System\Caracteristicas_System\obj\Debug\Caracteristicas_System.csproj.CopyComplete
+G:\Mi unidad\2021-1\proyecto final\Caracteristicas_System\Caracteristicas_System\obj\Debug\Caracteristicas_System.exe
+G:\Mi unidad\2021-1\proyecto final\Caracteristicas_System\Caracteristicas_System\obj\Debug\Caracteristicas_System.pdb
